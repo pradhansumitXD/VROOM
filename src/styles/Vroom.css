@@ -98,8 +98,14 @@
 .booking-popup label[for="dropoff-date"] {
   margin-right: 20px; 
 }
-
-
-
-
+.custom-alert {
+  position: fixed;
+  top: 20px; 
+  left: 50%;
+  transform: translateX(-50%);
+  background-color: #4CAF50;
+  color: white;
+  padding: 15px 30px;
+  border-radius: 8px;
+}
 

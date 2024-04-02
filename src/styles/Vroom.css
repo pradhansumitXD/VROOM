@@ -60,7 +60,7 @@
   border-radius: 8px;
   transition: border-color 0.3s ease;
   background-color: #f3f3f3; 
-  color: #333; 
+  color: #1a1a1a; 
 }
 
 .booking-popup input[type="date"] {

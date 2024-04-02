@@ -5,13 +5,9 @@ export const Vroom = () => {
   const [showAlert, setShowAlert] = useState(false);
 
   const handleSubmit = (event) => {
-    event.preventDefault(); // Prevents the default form submission behavior
-    // Your form submission logic here
-    
-    // Show the alert
+    event.preventDefault(); 
     setShowAlert(true);
 
-    // Hide the alert after 3 seconds
     setTimeout(() => {
       setShowAlert(false);
     }, 3000);

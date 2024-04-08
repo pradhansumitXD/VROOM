@@ -9,7 +9,7 @@ import React from "react";
                         Our Packages
                     </span>
                     <h1 className="homeTitle">
-                       Search yiur Holiday 
+                       Search your Holiday 
                     </h1>
                 </div>
             </div>

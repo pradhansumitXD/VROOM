@@ -108,4 +108,132 @@
   padding: 15px 30px;
   border-radius: 8px;
 }
+/* Styles for Car Registration Form */
+.car-registration-form {
+  font-family: Arial, sans-serif;
+  width: 400px;
+  margin: 80px auto;
+  padding: 20px;
+  background-color: #f9f9f9;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
 
+.car-registration-form h2 {
+  margin-top: 0;
+  color: #333;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.car-registration-form form {
+  display: flex;/* Styles for Car Registration Form */
+  .car-registration-form {
+    font-family: Arial, sans-serif;
+    width: 400px;
+    margin: 80px auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .car-registration-form h2 {
+    margin-top: 0;
+    color: #333;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .car-registration-form form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .car-registration-form label {
+    color: #333;
+    margin-bottom: 5px; /* Adjusted margin */
+  }
+  
+  .car-registration-form input {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .car-registration-form button {
+    padding: 12px 24px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .car-registration-form button:hover {
+    background-color: #0056b3;
+  }
+  
+  flex-direction: column;
+}
+
+
+.car-registration-form .number-label {
+  margin-right: 320px; /* Adjust margin for positioning */
+}
+.car-registration-form .name-label {
+  margin-right: 300px; /* Adjust margin for positioning */
+}
+.car-registration-form .email-label {
+  margin-right: 335px; /* Adjust margin for positioning */
+}
+.car-registration-form .Year-label {
+  margin-right: 400px; /* Adjust margin for positioning */
+}
+
+
+.car-registration-form input {
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+.car-registration-form h3 {
+  color: #333;  
+  margin-top: 20px; 
+}
+.car-registration-form .input-group {
+  display: flex;
+  align-items: center; /* Align items vertically */
+  margin-bottom: 15px;
+}
+
+.car-registration-form .car-details-label {
+  width: 100px; /* Adjust label width as needed */
+  margin-right: 20px; /* Adjust margin between label and input field */
+}
+.car-registration-form .car-details-label-Model {
+  width: 60px; /* Adjust label width as needed */
+  margin-right: 100px; /* Adjust margin between label and input field */
+}
+.car-registration-form .car-details-label-Year {
+  width: 50px; /* Adjust label width as needed */
+  margin-right: 100px; /* Adjust margin between label and input field */
+}
+
+
+.car-registration-form button {
+  padding: 12px 24px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.car-registration-form button:hover {
+  background-color: #0056b3;
+}

@@ -161,7 +161,7 @@ const CarRegistrationForm = () => {
         
         <h3>Car Details:</h3>
 
-        <label className="car-details-label">Make Year:</label> {/* Apply a class to the label */}
+        <label className="car-details-label">Make Year:</label> 
       <input
         type="text"
         name="carMake"
@@ -171,7 +171,7 @@ const CarRegistrationForm = () => {
       />
 
         <br />
-        <label className="car-details-label-Model">Model:</label> {/* Apply a class to the label */}
+        <label className="car-details-label-Model">Model:</label> 
       <input
         type="text"
         name="carModel"
@@ -180,7 +180,7 @@ const CarRegistrationForm = () => {
         required
       />
         <br />
-        <label className="car-details-label-Year">Year:</label> {/* Apply a class to the label */}
+        <label className="car-details-label-Year">Year:</label> 
       <input
         type="text"
         name="carYear"

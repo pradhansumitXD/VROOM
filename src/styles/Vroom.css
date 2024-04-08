@@ -127,7 +127,7 @@
 }
 
 .car-registration-form form {
-  display: flex;/* Styles for Car Registration Form */
+  display: flex;
   .car-registration-form {
     font-family: Arial, sans-serif;
     width: 400px;
@@ -152,7 +152,7 @@
   
   .car-registration-form label {
     color: #333;
-    margin-bottom: 5px; /* Adjusted margin */
+    margin-bottom: 5px; 
   }
   
   .car-registration-form input {
@@ -181,16 +181,16 @@
 
 
 .car-registration-form .number-label {
-  margin-right: 320px; /* Adjust margin for positioning */
+  margin-right: 320px; 
 }
 .car-registration-form .name-label {
-  margin-right: 300px; /* Adjust margin for positioning */
+  margin-right: 300px; 
 }
 .car-registration-form .email-label {
-  margin-right: 335px; /* Adjust margin for positioning */
+  margin-right: 335px; 
 }
 .car-registration-form .Year-label {
-  margin-right: 400px; /* Adjust margin for positioning */
+  margin-right: 400px; 
 }
 
 
@@ -206,21 +206,21 @@
 }
 .car-registration-form .input-group {
   display: flex;
-  align-items: center; /* Align items vertically */
+  align-items: center; 
   margin-bottom: 15px;
 }
 
 .car-registration-form .car-details-label {
-  width: 100px; /* Adjust label width as needed */
-  margin-right: 20px; /* Adjust margin between label and input field */
+  width: 100px; 
+  margin-right: 20px; 
 }
 .car-registration-form .car-details-label-Model {
-  width: 60px; /* Adjust label width as needed */
-  margin-right: 100px; /* Adjust margin between label and input field */
+  width: 60px; 
+  margin-right: 100px; 
 }
 .car-registration-form .car-details-label-Year {
-  width: 50px; /* Adjust label width as needed */
-  margin-right: 100px; /* Adjust margin between label and input field */
+  width: 50px; 
+  margin-right: 100px; 
 }
 
 
